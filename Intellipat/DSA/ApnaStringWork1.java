@@ -1,4 +1,4 @@
-package oracle.src.Intellipat.DSA;
+package oracle.src.DSA.Intellipat.DSA;
 
 import java.util.Scanner;
 
